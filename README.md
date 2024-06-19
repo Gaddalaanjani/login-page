@@ -1,0 +1,1 @@
+Developed a secure and user-friendly login page using Python and relevant web technologies. Implemented features such as user authentication, password encryption, and error handling. Ensured cross-browser compatibility and responsiveness. Collaborated with the design team to create an intuitive UI/UX. Utilized best practices in coding standards and security protocols.
